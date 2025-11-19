@@ -1,0 +1,25 @@
+.theme3 {
+  background: linear-gradient(180deg,#f0f9ff,#e0f2fe);
+  color: #0f172a;
+  border-radius: 18px;
+  padding: 40px;
+  font-family: "Poppins", sans-serif;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.06);
+}
+.theme3 h2 { color: #0ea5e9; font-weight: 700; }
+.theme3 .skill {
+  background: #cffafe;
+  color: #0c4a6e;
+  border-radius: 999px;
+  padding: 6px 14px;
+}
+.theme3 .project {
+  background: #f0f9ff;
+  border: 1px solid #bae6fd;
+  border-radius: 14px;
+  padding: 16px;
+  transition: all .2s ease;
+}
+.theme3 .project:hover { border-color: #38bdf8; transform: translateY(-3px); }
+
+

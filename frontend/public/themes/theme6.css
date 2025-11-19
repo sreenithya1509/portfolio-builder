@@ -1,0 +1,29 @@
+.theme6 {
+  background: radial-gradient(circle at 25% 25%, #0f172a, #020617);
+  color:#f8fafc;
+  border-radius:20px;
+  padding:40px;
+  font-family:"Orbitron",sans-serif;
+  text-transform:uppercase;
+  letter-spacing:1px;
+  box-shadow:0 0 25px rgba(139,92,246,0.3);
+}
+.theme6 h2{color:#a78bfa;}
+.theme6 .skill{
+  background:rgba(129,140,248,0.1);
+  color:#c7d2fe;
+  border:1px solid rgba(129,140,248,0.3);
+  border-radius:8px;
+  padding:6px 12px;
+}
+.theme6 .project{
+  background:rgba(255,255,255,0.05);
+  border-radius:10px;
+  padding:16px;
+  transition:all .25s ease;
+}
+.theme6 .project:hover{
+  box-shadow:0 0 18px rgba(139,92,246,0.5);
+  transform:translateY(-3px);
+}
+
